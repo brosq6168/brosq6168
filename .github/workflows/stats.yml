@@ -1,19 +1,26 @@
-name: Update GitHub Stats
+name: Update Profile Stats
 on:
   schedule:
-    # Runs every day at 00:00 UTC (midnight)
-    - cron: "0 0 * * *"
-  workflow_dispatch: # Allows manual triggering
+    - cron: "0 0 * * *" # Daily at midnight UTC
+  workflow_dispatch: # Allows manual runs
 
 jobs:
   update-stats:
     runs-on: ubuntu-latest
     steps:
-      - name: Update GitHub Stats
+      # Update GitHub Stats
+      - name: Update GitHub Readme Stats
         uses: anuraghazra/github-readme-stats@latest
         with:
-          username: brosq6168 # Replace with your username
-          # Customize stats (optional)
-          theme: dark
-          hide_border: true
-          show_icons: true
+          username: brosq6168
+
+  update-wakatime:
+    runs-on: ubuntu-latest
+    steps:
+      # Update WakaTime Stats
+      - name: Update WakaTime Readme Stats
+        uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_LANGUAGES: "true"
+          SHOW_OS: "false"
