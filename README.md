@@ -12,8 +12,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brosq6168&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ⌨️ Coding Activity
-[![wakatime](https://wakatime.com/badge/user/{brosq}.svg)](https://wakatime.com/@brosq6168)  
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=brosq6168)
+[![wakatime](https://wakatime.com/badge/user/{brosq}.svg)](https://wakatime.com/@brosq)  
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=brosq)
 
 ## 📌 Pinned Repositories
 [![Project 1]](https://github.com/IamME1311/ClauseGuard)
