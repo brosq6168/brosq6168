@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Andrew  a passionate Front-End Developer & Agri-Food System Advocate   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](www.linkedin.com/in/andrew-mponin)
-https://img.shields.io/badge/Front-End_Developer-Agri-Food_System_Advocate-blue
+
 ## 🚀 Skills
 <p align="center">
   <a href="https://skillicons.dev">
