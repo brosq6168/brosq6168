@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Andrew  a passionate Front-End Developer & Agri-Food System Advocate   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](www.linkedin.com/in/andrew-mponin)
+# 👋 Hi, I'm   a passionate Front-End Developer & Agri-Food System Advocate   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](www.linkedin.com/in/andrew-mponin)
 
 ## 🚀 Skills
 <p align="center">
