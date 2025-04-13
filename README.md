@@ -11,6 +11,10 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=brosq6168&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brosq6168&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## ⌨️ Coding Activity
+[![wakatime](https://wakatime.com/badge/user/{brosq}.svg)](https://wakatime.com/@brosq6168)  
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=brosq6168)
+
 ## 📌 Pinned Repositories
 [![Project 1]](https://github.com/IamME1311/ClauseGuard)
 
