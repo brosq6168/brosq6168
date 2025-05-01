@@ -15,7 +15,7 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=brosq6168.brosq6168)
 
 ## 📌 Pinned Repositories
-[![ClauseGuard]](https://github.com/IamME1311/ClauseGuard)
+[![ClauseGuard]](https://clause-guard.vercel.app/)
 # ClauseGuard 🛡️
 **AI-Powered Contract Risk Analysis Platform**  
 *"See the invisible risks in every contract"*
