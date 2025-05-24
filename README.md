@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Andrew Mponin — Software Developer & Problem Solver
+# 👋 Hi, I'm Andrew Mponin — Software Engineer | Climate Resilience Advocate
 
 ---
 
