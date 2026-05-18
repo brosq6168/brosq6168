@@ -3,7 +3,7 @@
 
 # 👋 Andrew — Backend Software Engineer
 
-Building scalable healthcare APIs at Mindscape Health | Python • Node.js • Firebase • REST APIs
+Software Engineer | Backend Systems & API Development | Quantum Computing | Python · Flask · FastAPI
 
 ---
 
