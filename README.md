@@ -8,11 +8,7 @@ Software Engineer | Backend Systems & API Development | Quantum Computing | Pyth
 ---
 
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brosq6168&show_icons=true&theme=dark)
-
----
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brosq6168&layout=compact&theme=dark&bg_color=0D1117&title_color=58A6FF)](https://github.com/anuraghazra/github-readme-stats)
 
